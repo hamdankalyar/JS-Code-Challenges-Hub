@@ -1,6 +1,6 @@
 # JS Challenges Repository
 
-Welcome to the Code Challenges Repository! This repository is designed to help coders enhance their skills through a series of JavaScript challenges. You can also contribute to this repository by following the guidelines mentioned in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+Welcome to the JS Challenges Repository! This repository is designed to help coders enhance their skills through a series of JavaScript challenges. You can also contribute to this repository by following the guidelines mentioned in the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 ## Challenges
 
