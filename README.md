@@ -32,4 +32,8 @@ To get started with the challenges, follow these steps:
 6. Compare your solution with the provided solutions in the `solutions` folder (optional).
 7. Repeat the process for other challenges and continue learning and improving!
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE). You can find more details in the LICENSE file.
+
 Happy coding!
