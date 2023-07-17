@@ -46,12 +46,12 @@ If you want to add a new challenge to the repository, follow these steps:
 2. follow this format:
 
 ```markdown
-[Solution](./solutions/solution-file-name.js)
+[solutions](./solutions/solution-file-name.js)
 ```
-Replace solution-file-name.js with the actual file name given to challenge file.
+Replace solution-file-name.js with the actual file name given to the challenge file.
 
 
-### 3. Adding a solution to an existing solution file
+### 4. Adding a solution to an existing solution file
 1. Navigate to the solutions folder.
 2. Locate the file corresponding to the challenge for which you want to add a solution.
 3. Open the file and add your solution code below the existing solutions.
@@ -61,7 +61,7 @@ Replace solution-file-name.js with the actual file name given to challenge file.
 7. Submit a pull request to the main repository for review.
 
    
-### 4. Improving an Existing Challenge
+### 5. Improving an Existing Challenge
 
 If you want to suggest improvements to an existing challenge, follow these steps:
 
@@ -70,7 +70,7 @@ If you want to suggest improvements to an existing challenge, follow these steps
 3. Commit and push your changes to your forked repository.
 4. Submit a pull request to the main repository for review.
 
-### 5. Fixing a Bug
+### 6. Fixing a Bug
 
 If you discover a bug in a challenge or solution, please report it by following these steps:
 
