@@ -46,7 +46,7 @@ If you want to add a new challenge to the repository, follow these steps:
 2. follow this format:
 
 ```markdown
-[solutions](./solutions/solution-file-name.js)
+[solutions](../solutions/solution-file-name.js)
 ```
 Replace solution-file-name.js with the actual file name given to the challenge file.
 
